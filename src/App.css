@@ -1,0 +1,27 @@
+
+.search-field {
+  border: 2px solid black;
+  margin: 2px;
+  padding: 2px;
+  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.css-1lmr4d8-JoyTypography-root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -4rem;
+  left: 4rem;
+}
+.card:hover{
+   transition: all 3;
+    scale: 1.2; 
+}
